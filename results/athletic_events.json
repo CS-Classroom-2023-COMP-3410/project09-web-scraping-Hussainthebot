@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "North Dakota",
+      "date": "Mar 6 (Fri)"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "North Dakota",
+      "date": "Mar 6 (Fri)"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "Miami",
+      "date": "Mar 6 (Fri)"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "Miami",
+      "date": "Mar 6 (Fri)"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "Miami",
+      "date": "Mar 7 (Sat)"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "Miami",
+      "date": "Mar 8 (Sun)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "(13*) Stanford",
+      "date": "Jan 11 (Sun)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Iowa State",
+      "date": "Feb 1 (Sun)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Arizona",
+      "date": "Feb 14 (Sat)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "(12) Utah",
+      "date": "Mar 1 (Sun)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Air Force",
+      "date": "Mar 9 (Mon)"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Big 12 Championship",
+      "date": "Mar 21 (Sat)"
+    },
+    {
+      "duTeam": "Men's Swimming",
+      "opponent": "Front Range Invite",
+      "date": "Oct 3 (Fri)"
+    },
+    {
+      "duTeam": "Men's Swimming",
+      "opponent": "History",
+      "date": "Feb 6 (Fri)"
+    },
+    {
+      "duTeam": "Women's Swimming",
+      "opponent": "Front Range Invite",
+      "date": "Oct 3 (Fri)"
+    },
+    {
+      "duTeam": "Women's Swimming",
+      "opponent": "History",
+      "date": "Feb 6 (Fri)"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Bedford Cup in the Mountains",
+      "date": "Sep 26 (Fri)"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Tournament Hub",
+      "date": "Oct 31 (Fri)"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Illinois State",
+      "date": "Apr 3 (Fri)"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Oral Roberts",
+      "date": "Apr 4 (Sat)"
+    }
+  ]
+}
